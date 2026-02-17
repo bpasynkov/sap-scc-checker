@@ -1,0 +1,21 @@
+# Python source files — всегда LF
+*.py text eol=lf
+
+# XML файлы (конфиги Cloud Connector) — всегда LF
+*.xml text eol=lf
+
+# INI файлы (SCC конфиги) — всегда LF
+*.ini text eol=lf
+
+# Прочие текстовые файлы (README, LICENSE) — LF
+*.md text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Исключаем бинарные файлы от конвертации
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

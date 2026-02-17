@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trustConfiguration>
+    <lastUpdated>2023-12-13 14:11:13:355</lastUpdated>
+    <configurations>
+        <idPConfiguration>
+            <name>Subaccount: 8913fac6-7f76-475b-8185-fc860be3d5d7; kid: key-id-0</name>
+            <description>JSON Web Token (JWT) key, used by the SAP UAA (XSUAA) to sign JWT access tokens. Multiple keys might be configured for the same identity zone of the subaccount. Current key hash (sha1sum): BE4F3509BCEA736CF17A11D9305F6F77ACED51F0C4270DBC684B8B66A1323155.</description>
+            <enabled>true</enabled>
+            <id>-700104280</id>
+            <publicKey>-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAwThn6OO9kj0bchkOGkqY
+BnV1dQ3zU/xtj7Kj7nDd8nyRMcEWCtVzrzjzhiisRhlrzlRIEY82wRAZNGKMnw7c
+vCwNixcfcDJnjzgr2pJ+5/yDZUc0IXXyIWPZD+XdL+0EogC3d4+fqyvg/BF/F0t2
+hKHWr/UTXE6zrGhBKaL0d8rKfYd6olGWigFd+3+24CKI14zWVxUBtC+P9Fhngc9D
+RzkXqhxOK/EKn0HzSgotf5duq6Tmk9DCNM4sLW4+ERc6xzrgbeEexakabvax/Az9
+WZ4qhwgw+fwIhKIC7WLwCEJaRsW4m7NKkv+eJR2LKYesuQ9SVAJ3EXV86RwdnH4u
+Av7lQHsKURPVAQBlranSqyQu0EXs2N9OlWTxe+FyNkIvyZvoLrZl/CdlYc8AKxRm
+5rn2/88nkrYQ0XZSrnICM5FRWgVF2hn5KfZGwtBN85/D4Yck6B3ocMfyX7e4URUm
+9lRPQFUJGTXaZnEIge0R159HUwhTN1HvyXrs6uT1ZZmW+c3p47dw1+LmUf/hIf8z
+d+uvHQjIeHEJqxjqfyA8yqAFKRHKVFrwnwdMHIsRap2EKBhHMfeVf0P2th5C9Mgg
+YoGCvdIaIUgMBX3TtCdvGrcWML7hnyS2zkrlA8SoKJnRcRF2KxWKs355FhpHpzqy
+ZflO5l98+O8wOsFjGpL9d0ECAwEAAQ==
+-----END PUBLIC KEY-----</publicKey>
+        </idPConfiguration>
+        <idPConfiguration>
+            <name>Subaccount: 8913fac6-7f76-475b-8185-fc860be3d5d7; kid: key-id-1</name>
+            <description>JSON Web Token (JWT) key, used by the SAP UAA (XSUAA) to sign JWT access tokens. Multiple keys might be configured for the same identity zone of the subaccount. Current key hash (sha1sum): BE4F3509BCEA736CF17A11D9305F6F77ACED51F0C4270DBC684B8B66A1323155.</description>
+            <enabled>true</enabled>
+            <id>-700104249</id>
+            <publicKey>-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAwThn6OO9kj0bchkOGkqY
+BnV1dQ3zU/xtj7Kj7nDd8nyRMcEWCtVzrzjzhiisRhlrzlRIEY82wRAZNGKMnw7c
+vCwNixcfcDJnjzgr2pJ+5/yDZUc0IXXyIWPZD+XdL+0EogC3d4+fqyvg/BF/F0t2
+hKHWr/UTXE6zrGhBKaL0d8rKfYd6olGWigFd+3+24CKI14zWVxUBtC+P9Fhngc9D
+RzkXqhxOK/EKn0HzSgotf5duq6Tmk9DCNM4sLW4+ERc6xzrgbeEexakabvax/Az9
+WZ4qhwgw+fwIhKIC7WLwCEJaRsW4m7NKkv+eJR2LKYesuQ9SVAJ3EXV86RwdnH4u
+Av7lQHsKURPVAQBlranSqyQu0EXs2N9OlWTxe+FyNkIvyZvoLrZl/CdlYc8AKxRm
+5rn2/88nkrYQ0XZSrnICM5FRWgVF2hn5KfZGwtBN85/D4Yck6B3ocMfyX7e4URUm
+9lRPQFUJGTXaZnEIge0R159HUwhTN1HvyXrs6uT1ZZmW+c3p47dw1+LmUf/hIf8z
+d+uvHQjIeHEJqxjqfyA8yqAFKRHKVFrwnwdMHIsRap2EKBhHMfeVf0P2th5C9Mgg
+YoGCvdIaIUgMBX3TtCdvGrcWML7hnyS2zkrlA8SoKJnRcRF2KxWKs355FhpHpzqy
+ZflO5l98+O8wOsFjGpL9d0ECAwEAAQ==
+-----END PUBLIC KEY-----</publicKey>
+        </idPConfiguration>
+        <idPConfiguration>
+            <name>Subaccount: 8913fac6-7f76-475b-8185-fc860be3d5d7; kid: Bg5-kYE7rggcKzmpdtjLClyIijs</name>
+            <description>JSON Web Token (JWT) key, used by the SAP IAS to sign JWT access tokens. Multiple keys might be configured for the same IAS tenant, mapped to the subaccount. Current key hash (sha1sum): 2EF6F369058E235B7E0378EA73667F3F35D5FE29852EC49D50678C4DB3223C99.</description>
+            <enabled>true</enabled>
+            <id>-2072040355</id>
+            <publicKey>-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoCpiGMH36SissH/kVzlA
+E1cEacAILXFaTo0xQbRUg5PKRPMGWUFaflgEEvdilb+BH7Pj7YneMk/Lzb+rGuW3
+agzkryMfZe2ohAeQv9WvQr3DJJiak/JwON4P7QuIlUNEErX7i67Av54tC4i2KikJ
+bt8jfu6DtdeV4EA9qGgQz8Nr+XBGHeZ4mI/0Z+4yf35d0iWj7Mijch2epkyXBGtA
+4O7JtglQof7R5wg+GC33tL2/gdChyehvZcW290VACLlck7oC+VNkLPk3JXEf3vw2
+LYaRIWmOmdFNKtFNJG3XQll1sfviI27G0GC+didqVQnZ/e5+30LgxOtlxruQ6oko
+gwIDAQAB
+-----END PUBLIC KEY-----</publicKey>
+        </idPConfiguration>
+    </configurations>
+</trustConfiguration>

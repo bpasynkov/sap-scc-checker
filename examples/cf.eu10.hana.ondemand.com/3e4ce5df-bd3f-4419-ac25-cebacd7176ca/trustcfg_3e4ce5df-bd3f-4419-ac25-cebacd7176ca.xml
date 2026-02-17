@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trustConfiguration>
+    <lastUpdated>2023-11-14 14:52:10:118</lastUpdated>
+    <configurations>
+        <idPConfiguration>
+            <name>Subaccount: 3e4ce5df-bd3f-4419-ac25-cebacd7176ca; kid: default-jwt-key-512062313</name>
+            <description>JSON Web Token (JWT) key, used by the SAP UAA (XSUAA) to sign JWT access tokens. Multiple keys might be configured for the same identity zone of the subaccount. Current key hash (sha1sum): EB77DB54FE4CEDB7C492278828888CFB2A574AD8DFCF320809CD4A112A0A6EED.</description>
+            <enabled>true</enabled>
+            <id>457014563</id>
+            <publicKey>-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy5DC0G+S7AmOTo3paSqi
+FazGMOwbWA2ipNpLI/QZzc0nYHY0u5o89P37la8AzfQe/5IE8KmVg7lzwHQOPdCH
+wncYaSq7zfF7+MVTCOfB3sdhWpCffCxtNNO/3h3FpF0zyuffvEeiLn/yWGpEz8Ej
+0VhqFgHiV8HUmZhOWf8TcNOd/up5RxjUk6EFNsAS34aYJ1ylsHg7EYcpG7RFJvle
+RNbkhWerSV95rCVVbqrCRvfcyCP2L+JBhellvje2CUpiDRAcy7nKyNZx+X5Z/UC2
+57oJxZvuNcHBx1wrw2/LmXksevwojB19Pql3n9Da7NBnUu8xHy9OMk7lVbpPVI6d
+bwIDAQAB
+-----END PUBLIC KEY-----</publicKey>
+        </idPConfiguration>
+    </configurations>
+</trustConfiguration>

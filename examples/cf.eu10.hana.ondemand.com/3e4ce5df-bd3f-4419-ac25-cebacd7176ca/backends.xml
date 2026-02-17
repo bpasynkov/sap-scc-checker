@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<systemMappingsConfiguration>
+    <systemMappings>
+        <systemMapping>
+            <authenticationMode>NONE_CERTIFICATE_LOCAL</authenticationMode>
+            <backendAuthority>
+                <allowedClients>001</allowedClients>
+            </backendAuthority>
+            <backendType>abapSys</backendType>
+            <checkPort>sapgw01</checkPort>
+            <communicationProtocol>RFC</communicationProtocol>
+            <creationDate>0</creationDate>
+            <description>SE1</description>
+            <internalHost>se1.sec-consulting.c.eu-nl-1.cloud.sap</internalHost>
+            <internalHostInHeader>false</internalHostInHeader>
+            <internalPort>sapgw01</internalPort>
+            <sapRouter></sapRouter>
+            <sncPartnerName></sncPartnerName>
+            <virtualHost>se1</virtualHost>
+            <virtualPort>sapgw01</virtualPort>
+        </systemMapping>
+        <systemMapping>
+            <authenticationMode>NONE</authenticationMode>
+            <backendAuthority/>
+            <backendType>abapSys</backendType>
+            <checkPort>50000</checkPort>
+            <communicationProtocol>HTTP</communicationProtocol>
+            <creationDate>0</creationDate>
+            <description>Connectivity to SAP BTP</description>
+            <internalHost>vmw4194.wdf.sap.corp</internalHost>
+            <internalHostInHeader>false</internalHostInHeader>
+            <internalPort>50000</internalPort>
+            <virtualHost>vmw4194.wdf.sap.corp</virtualHost>
+            <virtualPort>50000</virtualPort>
+        </systemMapping>
+    </systemMappings>
+</systemMappingsConfiguration>
